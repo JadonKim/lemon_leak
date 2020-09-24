@@ -1,0 +1,32 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "level": {
+        "id": "level",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDA1MDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTA2MDQwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDcwNDA5MDgwODA4MDgwODA4MDgwODA4MDgwODA4MDkwNzA0MDkwODA4MDgwODA4MDgwODA4MDgwODA4MDgwOTA3MDQwOTA4MDgwYTBhMGEwYTBhMGEwYTBhMDgwODA5MDcwNDA5MDgwODBhMDgwODA4MDgwODA4MGEwODA4MDkwNzA0MDkwODA4MGEwODBiMGIwYjBiMDgwYTA4MDgwOTA3MDQwOTA4MDgwYTA4MGIwYTBhMGIwODBhMDgwODA5MDcwNDA5MDgwODBhMDgwYjBhMGEwYjA4MGEwODA4MDkwNzA0MDkwODA4MGEwODBiMGIwYjBiMDgwYTA4MDgwOTA3MDQwOTA4MDgwYTA4MDgwODA4MDgwODBhMDgwODA5MDcwNDA5MDgwODBhMGEwYTBhMGEwYTBhMGEwODA4MDkwNzA0MDkwODA4MDgwODA4MDgwODA4MDgwODA4MDgwOTA3MDQwOTA4MDgwODA4MDgwODA4MDgwODA4MDgwODA5MDcwNDA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwNzAzMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjBjMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.dungeon.darkGroundNorth",
+            "sprites.dungeon.darkGroundSouth",
+            "sprites.dungeon.darkGroundSouthWest0",
+            "sprites.dungeon.darkGroundWest",
+            "sprites.dungeon.darkGroundNorthWest0",
+            "sprites.dungeon.darkGroundNorthEast0",
+            "sprites.dungeon.darkGroundEast",
+            "sprites.dungeon.darkGroundCenter",
+            "sprites.dungeon.collectibleBlueCrystal",
+            "sprites.dungeon.collectibleInsignia",
+            "sprites.dungeon.collectibleRedCrystal",
+            "sprites.dungeon.chestClosed"
+        ]
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
